@@ -1,0 +1,16 @@
+p {
+  background-color: pink;
+}
+
+button {
+  color: blueviolet;
+  background-color: beige;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+input {
+  color: blue;
+  background-color: cornsilk;
+  margin-top: 5px;
+  width: 90px;
+}
